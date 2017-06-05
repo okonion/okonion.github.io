@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      "Thug Life"
+subtitle:   ""
+date:       2017-06-04 00:00:00
+author:     "葱花"
+header-img: ""
+header-mask: 0.3
+catalog:    true
+tags:
+    - Life
+---
+
+
+
